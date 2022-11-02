@@ -1,2 +1,3 @@
 # GoInteractsh
 Dnslog Interactsh的go版接口查询，想改下fscan的dnslog写的，就一百行代码一路main到底。
+改fscan的dnslog找reverseCheck和newReverse函数，自己看着改吧哈哈哈哈或
